@@ -1,0 +1,14 @@
+#centered {
+text-align: center;
+list-style-position: inside;
+}
+#popup{
+opacity: 0;
+width: 500px;
+height: 500px;
+overflow: auto;
+position: absolute;
+top: 600px;
+left: 400px;
+border: 10px solid black;
+}
